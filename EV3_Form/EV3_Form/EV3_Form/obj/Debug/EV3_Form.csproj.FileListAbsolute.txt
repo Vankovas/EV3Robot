@@ -1,0 +1,45 @@
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe.config
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\bin\Debug\EV3_Form.pdb
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\bin\Debug\EV3MessengerLib.dll
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\bin\Debug\EV3MessengerLib.xml
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csprojResolveAssemblyReference.cache
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Form1.resources
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Properties.Resources.resources
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.GenerateResource.Cache
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.CoreCompileInputs.cache
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\obj\Debug\EV3_Form.exe
+C:\Users\jkbpo\source\repos\EV3_Form\EV3_Form\obj\Debug\EV3_Form.pdb
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe.config
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.pdb
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3MessengerLib.xml
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csprojResolveAssemblyReference.cache
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Form1.resources
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Properties.Resources.resources
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.GenerateResource.Cache
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.CoreCompileInputs.cache
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.exe
+E:\Programming\Git\FIS 2\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.pdb
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe.config
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.pdb
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3MessengerLib.xml
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csprojResolveAssemblyReference.cache
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Form1.resources
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Properties.Resources.resources
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.GenerateResource.Cache
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.CoreCompileInputs.cache
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.exe
+C:\Users\LPDDat\Documents\FIS\fis-robot-ev3\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.pdb
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe.config
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.exe
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3_Form.pdb
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\bin\Debug\EV3MessengerLib.xml
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Form1.resources
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.Properties.Resources.resources
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.GenerateResource.Cache
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.exe
+C:\Users\Ivan Vasilev\Desktop\EV3 Robot\FinalForm\EV3_Form\EV3_Form\EV3_Form\obj\Debug\EV3_Form.pdb
